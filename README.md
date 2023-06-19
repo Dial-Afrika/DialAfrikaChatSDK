@@ -28,7 +28,7 @@ Add the following dependency to the build.gradle file of your application module
 
 ```
 	dependencies {
-	        implementation 'com.github.thai-ru:DialAfrikaChatSDK:Tag'
+	        implementation 'com.github.Dial-Afrika:DialAfrikaChatSDK:Tag'
 	}
   ```
   Replace Tag with the desired version or commit hash of the ChatSDK.
